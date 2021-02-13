@@ -1,0 +1,291 @@
+charity,ceo,contributions,year,charity_sector,state,fundraising,emp_compensation,emp_number,ceo_basesalary,ceo_extra,year_founded,ceo_year_started,ceo_gender,ceo_last_school,ceo_degree,ceo_school_rank,missing_data,state1,sector1,degree1,gender1,ceo_salary,charity_age,ceo_duration,founder
+Arizona Humane Society,Guy Collison,12235799,2013,Animals,AZ,1983159,9609068,316,132342,1518,1957,2009,male,Bowling Green State University,B.S.,29,,AZ,Animals,B.S.,male,133860,56,4,0
+Arizona Humane Society,Guy Collison,10627266,2011,Animals,AZ,1424704,7916722,271,157604,6970,1957,2009,male,Bowling Green State University,B.S.,29,,AZ,Animals,B.S.,male,164574,54,2,0
+Arizona Humane Society,Guy Collison,9533268,2010,Animals,AZ,1447507,7279205,247,161642,4361,1957,2009,male,Bowling Green State University,B.S.,29,,AZ,Animals,B.S.,male,166003,53,1,0
+Arizona Humane Society,Guy Collison,9500407,2012,Animals,AZ,1425836,8357674,269,168403,7248,1957,2009,male,Bowling Green State University,B.S.,29,,AZ,Animals,B.S.,male,175651,55,3,0
+Arizona Humane Society,Guy Collison,9190346,2009,Animals,AZ,1250467,6835755,250,118492,2777,1957,2009,male,Bowling Green State University,B.S.,29,,AZ,Animals,B.S.,male,121269,52,0,0
+Make-A-Wish America,David Williams,70369626,2014,Health,AZ,10776025,14958459,228,557618,0,1980,2005,male,University of Houston,MBA,29,,AZ,Health,MBA,male,557618,34,9,0
+Make-A-Wish America,David Williams,65925217,2013,Health,AZ,8626896,13046614,228,524395,0,1980,2005,male,University of Houston,MBA,29,,AZ,Health,MBA,male,524395,33,8,0
+Make-A-Wish America,David Williams,58854635,2012,Health,AZ,8310357,11282138,198,500630,0,1980,2005,male,University of Houston,MBA,29,,AZ,Health,MBA,male,500630,32,7,0
+Make-A-Wish America,David Williams,58712923,2010,Health,AZ,8019303,10171173,148,460050,0,1980,2005,male,University of Houston,MBA,29,,AZ,Health,MBA,male,460050,30,5,0
+Make-A-Wish America,David Williams,57705423,2011,Health,AZ,8502580,10871500,178,471217,0,1980,2005,male,University of Houston,MBA,29,,AZ,Health,MBA,male,471217,31,6,0
+Cenikor Foundation,William L. Bailey,6760837,2014,Health,TX,290743,6581555,360,407083,0,1967,2008,male,Texas Tech University,BBA,32,,TX,Health,BBA,male,407083,47,6,0
+Cenikor Foundation,William L. Bailey,6627331,2013,Health,TX,498382,7151483,360,341015,0,1967,2007,male,Texas Tech University,BBA,32,,TX,Health,BBA,male,341015,46,6,0
+Cenikor Foundation,William L. Bailey,6538324,2012,Health,TX,547457,6985541,336,329534,0,1967,2006,male,Texas Tech University,BBA,32,,TX,Health,BBA,male,329534,45,6,0
+Cenikor Foundation,William L. Bailey,6527203,2011,Health,TX,454555,5710733,284,303988,0,1967,2005,male,Texas Tech University,BBA,32,,TX,Health,BBA,male,303988,44,6,0
+Cenikor Foundation,William L. Bailey,3819022,2010,Health,TX,301849,3990129,136,271001,0,1967,2004,male,Texas Tech University,BBA,32,,TX,Health,BBA,male,271001,43,6,0
+American Indian College Fund,Richard Williams,19742859,2010,Education,CO,2898051,2690311,56,175716,27536,1989,1997,male,University of Wyoming,M.Ed.,33,,CO,Education,M.Ed.,male,203252,21,13,0
+American Indian College Fund,Richard Williams,17227467,2011,Education,CO,2806346,3072473,56,203452,30867,1989,1997,male,University of Wyoming,M.Ed.,33,,CO,Education,M.Ed.,male,234319,22,14,0
+Gay Men's Health Crisis,Marjorie Hill,21913566,2012,Health,NY,2229573,10367661,208,289365,0,1982,2004,female,Adelphi University,Ph.D,38,,NY,Health,Ph.D,female,289365,30,8,0
+Gay Men's Health Crisis,Marjorie Hill,21696921,2011,Health,NY,2282302,10363876,211,234351,0,1982,2004,female,Adelphi University,Ph.D,38,,NY,Health,Ph.D,female,234351,29,7,0
+Gay Men's Health Crisis,Marjorie Hill,21387392,2013,Health,NY,2149160,9209962,207,205544,0,1982,2004,female,Adelphi University,Ph.D,38,,NY,Health,Ph.D,female,205544,31,9,0
+Habitat for Humanity East Bay/Silicon Valley,Janice E. Jensen,11586066,2010,Community Development,CA,655837,3628846,65,162930,0,1976,2005,female,Oregon State University,B.S.,39,,CA,Community Development,B.S.,female,162930,34,5,0
+Habitat for Humanity East Bay/Silicon Valley,Janice E. Jensen,11158241,2014,Community Development,CA,972904,5138089,97,214241,0,1976,2005,female,Oregon State University,B.S.,39,,CA,Community Development,B.S.,female,214241,38,9,0
+Habitat for Humanity East Bay/Silicon Valley,Janice E. Jensen,9692356,2013,Community Development,CA,1015815,5187955,88,200020,0,1976,2005,female,Oregon State University,B.S.,39,,CA,Community Development,B.S.,female,200020,37,8,0
+Habitat for Humanity East Bay/Silicon Valley,Janice E. Jensen,8502916,2011,Community Development,CA,567942,3508595,74,177389,0,1976,2005,female,Oregon State University,B.S.,39,,CA,Community Development,B.S.,female,177389,35,6,0
+Habitat for Humanity East Bay/Silicon Valley,Janice E. Jensen,8231047,2012,Community Development,CA,936485,4686649,71,190827,0,1976,2005,female,Oregon State University,B.S.,39,,CA,Community Development,B.S.,female,190827,36,7,0
+Morris Animal Foundation,David Haworth,10266589,2012,Animals,CO,1972104,2920222,41,218235,0,1948,2011,male,Colorado State University,Ph.D,42,,CO,Animals,Ph.D,male,218235,64,1,0
+Morris Animal Foundation,David Haworth,9806280,2014,Animals,CO,2247097,2986795,40,177786,28169,1948,2011,male,Colorado State University,Ph.D,42,,CO,Animals,Ph.D,male,205955,66,3,0
+Morris Animal Foundation,David Haworth,8954333,2011,Animals,CO,1568974,2626873,41,126745,3575,1948,2011,male,Colorado State University,Ph.D,42,,CO,Animals,Ph.D,male,130320,63,0,0
+Morris Animal Foundation,David Haworth,8063763,2013,Animals,CO,2104106,2757968,41,210000,20293,1948,2011,male,Colorado State University,Ph.D,42,,CO,Animals,Ph.D,male,230293,65,2,0
+Foundation Fighting Blindness,William Schmidt,56098521,2014,Health,MD,7165051,6353597,89,339539,0,1971,2005,male,DePaul University,JD,43,,MD,Health,JD,male,339539,43,9,0
+Foundation Fighting Blindness,William Schmidt,40828587,2012,Health,MD,7612726,7404141,106,336730,0,1971,2005,male,DePaul University,JD,43,,MD,Health,JD,male,336730,41,7,0
+Foundation Fighting Blindness,William Schmidt,38553517,2011,Health,MD,7815055,7479697,107,326900,0,1971,2005,male,DePaul University,JD,43,,MD,Health,JD,male,326900,40,6,0
+Foundation Fighting Blindness,William Schmidt,37077623,2013,Health,MD,6864280,6704696,98,330403,0,1971,2005,male,DePaul University,JD,43,,MD,Health,JD,male,330403,42,8,0
+National Council of La Raza,Janet Murguia,35757043,2010,Human & Civil Rights,DC,986743,13469325,162,316244,45179,1968,2005,female,University of Kansas,JD,44,,DC,Human & Civil Rights,JD,female,361423,42,5,0
+National Council of La Raza,Janet Murguia,33131688,2012,Human & Civil Rights,DC,1034167,11573923,160,360171,51454,1968,2005,female,University of Kansas,JD,44,,DC,Human & Civil Rights,JD,female,411625,44,7,0
+National Council of La Raza,Janet Murguia,29794393,2014,Human & Civil Rights,DC,1240302,11727572,138,459641,44074,1968,2005,female,University of Kansas,JD,44,,DC,Human & Civil Rights,JD,female,503715,46,9,0
+National Council of La Raza,Janet Murguia,27331952,2013,Human & Civil Rights,DC,1528134,11407321,152,396622,20875,1968,2005,female,University of Kansas,JD,44,,DC,Human & Civil Rights,JD,female,417497,45,8,0
+National Council of La Raza,Janet Murguia,25855921,2011,Human & Civil Rights,DC,1029315,12266749,165,332897,47558,1968,2005,female,University of Kansas,JD,44,,DC,Human & Civil Rights,JD,female,380455,43,6,0
+ALSAC - St. Jude Children's Research Hospital ,Richard C. Shadyac Jr.,1028565644,2014,Health,TN,180954270,112911934,1417,762202,0,1957,2009,male,Loyola University,JD,48,,TN,Health,JD,male,762202,57,5,0
+ALSAC - St. Jude Children's Research Hospital ,Richard C. Shadyac Jr.,948816088,2013,Health,TN,160148691,98156940,1402,646921,42534,1957,2009,male,Loyola University,JD,48,,TN,Health,JD,male,689455,56,4,0
+ALSAC - St. Jude Children's Research Hospital ,Richard C. Shadyac Jr.,851256497,2012,Health,TN,146118954,88674093,1388,625147,41854,1957,2009,male,Loyola University,JD,48,,TN,Health,JD,male,667001,55,3,0
+ALSAC - St. Jude Children's Research Hospital ,Richard C. Shadyac Jr.,776484977,2011,Health,TN,139019210,82095094,1428,634894,0,1957,2009,male,Loyola University,JD,48,,TN,Health,JD,male,634894,54,2,0
+ALSAC - St. Jude Children's Research Hospital ,Richard C. Shadyac Jr.,698411243,2010,Health,TN,139200471,76689183,1442,515620,0,1957,2009,male,Loyola University,JD,48,,TN,Health,JD,male,515620,53,1,0
+Inner-City Scholarship Fund,Susan George,21254009,2014,Education,NY,1695151,1520762,53,168040,84048,1971,2004,female,Drew University,MLitt,52,,NY,Education,MLitt,female,252088,43,10,0
+Inner-City Scholarship Fund,Susan George,17222012,2010,Education,NY,1369734,884810,16,208616,0,1971,2004,female,Drew University,MLitt,52,,NY,Education,MLitt,female,208616,39,6,0
+Inner-City Scholarship Fund,Susan George,16003066,2013,Education,NY,1588965,1045243,61,251059,0,1971,2004,female,Drew University,MLitt,52,,NY,Education,MLitt,female,251059,42,9,0
+Inner-City Scholarship Fund,Susan George,14718131,2011,Education,NY,1423369,834329,15,228670,0,1971,2004,female,Drew University,MLitt,52,,NY,Education,MLitt,female,228670,40,7,0
+Inner-City Scholarship Fund,Susan George,13708270,2012,Education,NY,1490107,851717,65,254358,0,1971,2004,female,Drew University,MLitt,52,,NY,Education,MLitt,female,254358,41,8,0
+The Asia Foundation,David D. Arnold,149043236,2011,International,CA,383932,44911310,238,469194,0,1952,2011,male,Michigan State University,MPA,52,,CA,International,MPA,male,469194,59,0,0
+The Asia Foundation,David D. Arnold,136191947,2012,International,CA,384215,45451789,203,479245,0,1952,2011,male,Michigan State University,MPA,52,,CA,International,MPA,male,479245,60,1,0
+The Asia Foundation,David D. Arnold,126395351,2013,International,CA,491448,46215896,210,48896,448524,1952,2011,male,Michigan State University,MPA,52,,CA,International,MPA,male,497420,61,2,0
+The Asia Foundation,David D. Arnold,120674490,2014,International,CA,483848,46386642,193,483238,0,1952,2011,male,Michigan State University,MPA,52,,CA,International,MPA,male,483238,62,3,0
+Books for Africa,Patrick Plonski,35614456,2014,International,MN,168321,628708,26,134348,11510,1989,2003,male,University of Minnesota Twin Cities,Ph.D,55,,MN,International,Ph.D,male,145858,25,11,0
+Books for Africa,Patrick Plonski,35139403,2012,International,MN,141193,591230,25,116806,8774,1989,2003,male,University of Minnesota Twin Cities,Ph.D,55,,MN,International,Ph.D,male,125580,23,9,0
+Books for Africa,Patrick Plonski,33459488,2013,International,MN,150720,586305,20,143123,14999,1989,2003,male,University of Minnesota Twin Cities,Ph.D,55,,MN,International,Ph.D,male,158122,24,10,0
+Books for Africa,Patrick Plonski,30539250,2011,International,MN,153837,553069,25,113204,17966,1989,2003,male,University of Minnesota Twin Cities,Ph.D,55,,MN,International,Ph.D,male,131170,22,8,0
+Books for Africa,Patrick Plonski,23800283,2010,International,MN,146913,553069,17,99425,10836,1989,2003,male,University of Minnesota Twin Cities,Ph.D,55,,MN,International,Ph.D,male,110261,21,7,0
+Action Against Hunger USA,Nancy Dale,75896721,2013,International,NY,1423098,22140724,94,247149,0,1985,2007,female,Yeshiva University,M.S.,58,,NY,International,M.S.,female,247149,28,6,0
+Action Against Hunger USA,Nancy Dale,63124344,2012,International,NY,982120,21930284,89,265693,0,1985,2007,female,Yeshiva University,M.S.,58,,NY,International,M.S.,female,265693,27,5,0
+Action Against Hunger USA,Nancy Dale,57854222,2011,International,NY,1396355,20028415,84,256733,0,1985,2007,female,Yeshiva University,M.S.,58,,NY,International,M.S.,female,256733,26,4,0
+Action Against Hunger USA,Nancy Dale,50530270,2010,International,NY,1121731,16796807,75,225982,57527,1985,2007,female,Yeshiva University,M.S.,58,,NY,International,M.S.,female,283509,25,3,0
+Communities In Schools National Office,Daniel J. Cardinali,37562260,2012,Education,VA,1833127,5929075,66,348203,22925,1977,1999,male,Fordham University,M.A.,59,,VA,Education,M.A.,male,371128,35,13,0
+Communities In Schools National Office,Daniel J. Cardinali,30381049,2011,Education,VA,1231109,5286893,59,307027,22563,1977,1999,male,Fordham University,M.A.,59,,VA,Education,M.A.,male,329590,34,12,0
+Communities In Schools National Office,Daniel J. Cardinali,22610901,2013,Education,VA,2828908,6340996,76,368708,23602,1977,1999,male,Fordham University,M.A.,59,,VA,Education,M.A.,male,392310,36,14,0
+Communities In Schools National Office,Daniel J. Cardinali,19777492,2010,Education,VA,1301991,4713835,58,282245,19180,1977,1999,male,Fordham University,M.A.,59,,VA,Education,M.A.,male,301425,33,11,0
+Communities In Schools National Office,Daniel J. Cardinali,19315126,2014,Education,VA,2191734,6407328,73,407435,25093,1977,1999,male,Fordham University,M.A.,59,,VA,Education,M.A.,male,432528,37,15,0
+Children's Scholarship Fund,Darla Romfo,29088945,2010,Education,NY,710439,1238144,14,267242,20199,1998,1999,female,George Washington University,JD,60,,NY,Education,JD,female,287441,12,11,0
+Children's Scholarship Fund,Darla Romfo,26203428,2011,Education,NY,773096,1351465,22,289984,0,1998,1999,female,George Washington University,JD,60,,NY,Education,JD,female,289984,13,12,0
+Children's Scholarship Fund,Darla Romfo,24287928,2012,Education,NY,768193,1380384,16,291243,0,1998,1999,female,George Washington University,JD,60,,NY,Education,JD,female,291243,14,13,0
+Children's Scholarship Fund,Darla Romfo,23588401,2013,Education,NY,922612,1339282,17,267242,25247,1998,1999,female,George Washington University,JD,60,,NY,Education,JD,female,292489,15,14,0
+Children's Scholarship Fund,Darla Romfo,22225578,2014,Education,NY,709774,1281112,13,267242,24739,1998,1999,female,George Washington University,JD,60,,NY,Education,JD,female,291981,16,15,0
+The Franklin Institute,Dennis M. Wint,17807535,2014,Arts & Culture,PA,2666915,14783530,466,537680,56681,1824,1995,male,Case Western Reserve University,Ph.D,65,,PA,Arts & Culture,Ph.D,male,594361,190,19,0
+The Franklin Institute,Dennis M. Wint,15267620,2013,Arts & Culture,PA,2110948,13909281,441,565681,54361,1824,1995,male,Case Western Reserve University,Ph.D,65,,PA,Arts & Culture,Ph.D,male,620042,189,18,0
+The Franklin Institute,Dennis M. Wint,11452312,2011,Arts & Culture,PA,1763564,12293908,402,431295,57431,1824,1995,male,Case Western Reserve University,Ph.D,65,,PA,Arts & Culture,Ph.D,male,488726,187,16,0
+The Franklin Institute,Dennis M. Wint,10865764,2012,Arts & Culture,PA,1973534,13297857,415,469496,62904,1824,1995,male,Case Western Reserve University,Ph.D,65,,PA,Arts & Culture,Ph.D,male,532400,188,17,0
+The Franklin Institute,Dennis M. Wint,6251106,2010,Arts & Culture,PA,1820434,12194588,441,374247,63208,1824,1995,male,Case Western Reserve University,Ph.D,65,,PA,Arts & Culture,Ph.D,male,437455,186,15,0
+Cleveland Housing Network,Robert Curry,23635665,2011,Community Development,OH,212038,8350814,164,121276,14745,1981,1998,male,Case Western Reserve University,MBA,65,,OH,Community Development,MBA,male,136021,30,13,0
+Cleveland Housing Network,Robert Curry,23518260,2010,Community Development,OH,189433,7674094,161,131242,13480,1981,1998,male,Case Western Reserve University,MBA,65,,OH,Community Development,MBA,male,144722,29,12,0
+Cleveland Housing Network,Robert Curry,21727614,2012,Community Development,OH,219774,8984306,183,123806,15392,1981,1998,male,Case Western Reserve University,MBA,65,,OH,Community Development,MBA,male,139198,31,14,0
+Cleveland Housing Network,Robert Curry,15787805,2013,Community Development,OH,185218,9589583,210,126181,16699,1981,1998,male,Case Western Reserve University,MBA,65,,OH,Community Development,MBA,male,142880,32,15,0
+Cleveland Housing Network,Robert Curry,12805466,2014,Community Development,OH,251822,10050323,193,135573,17543,1981,1998,male,Case Western Reserve University,MBA,65,,OH,Community Development,MBA,male,153116,33,16,0
+Amnesty International USA,Steven Hawkins,37447820,2015,International,NY,5340577,8922520,424,274603,38973,1966,2013,male,NYU,JD,66,,NY,International,JD,male,313576,49,2,0
+Amnesty International USA,Steven Hawkins,34144311,2013,International,NY,4754015,10181686,152,55769,6484,1966,2013,male,NYU,JD,66,,NY,International,JD,male,62253,47,0,0
+Amnesty International USA,Steven Hawkins,31785589,2014,International,NY,6591459,8867508,133,261538,29304,1966,2013,male,NYU,JD,66,,NY,International,JD,male,290842,48,1,0
+Hampton Roads Community Foundation,Deborah M. DiCroce,17226620,2013,Community Development,VA,542319,1351185,15,294438,0,1950,2012,female,College of William and Mary,Ed.D,68,,VA,Community Development,Ed.D,female,294438,63,1,0
+Hampton Roads Community Foundation,Deborah M. DiCroce,16333832,2014,Community Development,VA,582343,1549551,14,263755,41506,1950,2012,female,College of William and Mary,Ed.D,68,,VA,Community Development,Ed.D,female,305261,64,2,0
+Hampton Roads Community Foundation,Deborah M. DiCroce,13783065,2012,Community Development,VA,462692,1159119,16,205066,21310,1950,2012,female,College of William and Mary,Ed.D,68,,VA,Community Development,Ed.D,female,226376,62,0,0
+Arts and Science Council,Scott Provancher,14177927,2012,Arts & Culture,NC,1195163,2459851,53,233323,14621,1958,2009,male,University of Rochester,B.A.,68,,NC,Arts & Culture,B.A.,male,247944,54,3,0
+Arts and Science Council,Scott Provancher,12809152,2010,Arts & Culture,NC,988473,1531901,29,208880,10729,1958,2009,male,University of Rochester,B.A.,68,,NC,Arts & Culture,B.A.,male,219609,52,1,0
+Arts and Science Council,Scott Provancher,12597434,2011,Arts & Culture,NC,1133434,1923805,29,225927,14252,1958,2009,male,University of Rochester,B.A.,68,,NC,Arts & Culture,B.A.,male,240179,53,2,0
+BELL (Building Educated Leaders for Life),Tiffany Cooper Gueye,28307758,2011,Education,MA,803972,17143874,2335,245495,0,1992,2008,female,Boston College,Ph.D,70,,MA,Education,Ph.D,female,245495,19,3,0
+BELL (Building Educated Leaders for Life),Tiffany Cooper Gueye,21839059,2010,Education,MA,880823,14803265,1053,226255,0,1992,2008,female,Boston College,Ph.D,70,,MA,Education,Ph.D,female,226255,18,2,0
+BELL (Building Educated Leaders for Life),Tiffany Cooper Gueye,21225966,2014,Education,MA,603490,14839190,1779,277221,0,1992,2008,female,Boston College,Ph.D,70,,MA,Education,Ph.D,female,277221,22,6,0
+BELL (Building Educated Leaders for Life),Tiffany Cooper Gueye,18054941,2012,Education,MA,836818,14390849,2292,261793,0,1992,2008,female,Boston College,Ph.D,70,,MA,Education,Ph.D,female,261793,20,4,0
+BELL (Building Educated Leaders for Life),Tiffany Cooper Gueye,18003404,2013,Education,MA,659425,14286341,1767,240408,0,1992,2008,female,Boston College,Ph.D,70,,MA,Education,Ph.D,female,240408,21,5,0
+Local Initiatives Support Corporation,Michael Rubinger,110906468,2013,Community Development,NY,6678205,36309250,478,439135,46592,1979,1999,male,Tufts University,M.A.,74,,NY,Community Development,M.A.,male,485727,34,14,0
+Local Initiatives Support Corporation,Michael Rubinger,105519668,2014,Community Development,NY,6150603,37726116,675,528337,0,1979,1999,male,Tufts University,M.A.,74,,NY,Community Development,M.A.,male,528337,35,15,0
+Local Initiatives Support Corporation,Michael Rubinger,103384044,2011,Community Development,NY,6878093,34335349,443,408432,47227,1979,1999,male,Tufts University,M.A.,74,,NY,Community Development,M.A.,male,455659,32,12,0
+Local Initiatives Support Corporation,Michael Rubinger,98640981,2015,Community Development,NY,6365750,39433859,684,531198,48796,1979,1999,male,Tufts University,M.A.,74,,NY,Community Development,M.A.,male,579994,36,16,0
+Local Initiatives Support Corporation,Michael Rubinger,82114085,2012,Community Development,NY,6717912,34386414,423,468471,0,1979,1999,male,Tufts University,M.A.,74,,NY,Community Development,M.A.,male,468471,33,13,0
+Environmental Defense Fund,Frederic D. Krupp,145135042,2012,Environment,NY,11939410,52675612,579,541836,0,1967,1984,male,University of Michigan,JD,74,,NY,Environment,JD,male,541836,45,28,0
+Environmental Defense Fund,Frederic D. Krupp,140115942,2013,Environment,NY,13187655,57937151,604,566213,0,1967,1984,male,University of Michigan,JD,74,,NY,Environment,JD,male,566213,46,29,0
+Environmental Defense Fund,Frederic D. Krupp,135480611,2014,Environment,NY,16093305,64015567,629,607828,0,1967,1984,male,University of Michigan,JD,74,,NY,Environment,JD,male,607828,47,30,0
+Environmental Defense Fund,Frederic D. Krupp,110051773,2011,Environment,NY,11774451,46244145,543,487084,0,1967,1984,male,University of Michigan,JD,74,,NY,Environment,JD,male,487084,44,27,0
+Environmental Defense Fund,Frederic D. Krupp,94076678,2010,Environment,NY,10938888,41128103,480,478614,0,1967,1984,male,University of Michigan,JD,74,,NY,Environment,JD,male,478614,43,26,0
+Southern Poverty Law Center,Richard Cohen,44968003,2014,Human & Civil Rights,AL,9782466,18315037,296,380418,0,1971,1986,male,University of Virginia,JD,75,,AL,Human & Civil Rights,JD,male,380418,43,28,0
+Southern Poverty Law Center,Richard Cohen,43667375,2013,Human & Civil Rights,AL,9674637,17205027,287,359300,0,1971,1986,male,University of Virginia,JD,75,,AL,Human & Civil Rights,JD,male,359300,42,27,0
+Southern Poverty Law Center,Richard Cohen,38759765,2011,Human & Civil Rights,AL,8305469,15844141,254,340923,0,1971,1986,male,University of Virginia,JD,75,,AL,Human & Civil Rights,JD,male,340923,40,25,0
+Southern Poverty Law Center,Richard Cohen,37503868,2012,Human & Civil Rights,AL,8797876,16527919,271,349843,0,1971,1986,male,University of Virginia,JD,75,,AL,Human & Civil Rights,JD,male,349843,41,26,0
+Southern Poverty Law Center,Richard Cohen,36125562,2010,Human & Civil Rights,AL,6512481,14066129,228,339764,0,1971,1986,male,University of Virginia,JD,75,,AL,Human & Civil Rights,JD,male,339764,39,24,0
+Amnesty International USA,Curtis Goering,13620759,2011,International,NY,1591738,3202542,172,190373,22258,1966,1980,male,Georgetown University,M.A.,78,,NY,International,M.A.,male,212631,45,31,0
+Miami Foundation,Javier Alberto Soto,53983590,2014,Community Development,FL,702511,1770212,22,313449,0,1967,2009,male,Georgetown University,JD,78,,FL,Community Development,JD,male,313449,47,5,0
+Miami Foundation,Javier Alberto Soto,41648980,2013,Community Development,FL,1586600,1815263,21,306512,0,1967,2009,male,Georgetown University,JD,78,,FL,Community Development,JD,male,306512,46,4,0
+Miami Foundation,Javier Alberto Soto,26079522,2011,Community Development,FL,1703337,1742007,23,270540,31296,1967,2009,male,Georgetown University,JD,78,,FL,Community Development,JD,male,301836,44,2,0
+Miami Foundation,Javier Alberto Soto,21768342,2012,Community Development,FL,1063744,2061245,21,300194,0,1967,2009,male,Georgetown University,JD,78,,FL,Community Development,JD,male,300194,45,3,0
+Miami Foundation,Javier Alberto Soto,7695303,2010,Community Development,FL,806649,1497554,17,280732,0,1967,2009,male,Georgetown University,JD,78,,FL,Community Development,JD,male,280732,43,1,0
+Land Trust Alliance,Rand Wentworth,17470117,2012,Environment,DC,2159532,4746267,63,377782,0,1982,2002,male,Cornell University,MBA,85,,DC,Environment,MBA,male,377782,30,10,0
+Land Trust Alliance,Rand Wentworth,13706410,2015,Environment,DC,2705690,6456378,75,492025,0,1982,2002,male,Cornell University,MBA,85,,DC,Environment,MBA,male,492025,33,13,0
+Land Trust Alliance,Rand Wentworth,11977933,2014,Environment,DC,2488876,5807476,74,483107,0,1982,2002,male,Cornell University,MBA,85,,DC,Environment,MBA,male,483107,32,12,0
+Land Trust Alliance,Rand Wentworth,11787057,2011,Environment,DC,1654111,4328030,63,234296,65709,1982,2002,male,Cornell University,MBA,85,,DC,Environment,MBA,male,300005,29,9,0
+Land Trust Alliance,Rand Wentworth,9236564,2013,Environment,DC,2243479,5365801,72,381291,0,1982,2002,male,Cornell University,MBA,85,,DC,Environment,MBA,male,381291,31,11,0
+Alzheimer's Association,Harry Johns,149718313,2014,Health,IL,22889337,50455090,698,1024674,37475,1980,2005,male,Northwestern University,MBA,89,,IL,Health,MBA,male,1062149,34,9,0
+Alzheimer's Association,Harry Johns,120547521,2013,Health,IL,20070258,45312720,595,1014813,36360,1980,2005,male,Northwestern University,MBA,89,,IL,Health,MBA,male,1051173,33,8,0
+Alzheimer's Association,Harry Johns,108946787,2012,Health,IL,19112704,35949146,443,2779412,30262,1980,2005,male,Northwestern University,MBA,89,,IL,Health,MBA,male,2809674,32,7,0
+Alzheimer's Association,Harry Johns,92496080,2011,Health,IL,18392627,31688578,388,990074,6750,1980,2005,male,Northwestern University,MBA,89,,IL,Health,MBA,male,996824,31,6,0
+Alzheimer's Association,Harry Johns,86072453,2010,Health,IL,20189115,25820480,333,966342,0,1980,2005,male,Northwestern University,MBA,89,,IL,Health,MBA,male,966342,30,5,0
+The Climate Reality Project,Ken Berlin,16738743,2014,Environment,DC,759935,4600148,59,204005,0,2006,2009,female,Northwestern University,JD,89,,DC,Environment,JD,female,204005,8,5,0
+The Climate Reality Project,Maggie L. Fox,17589640,2011,Environment,DC,796122,4734072,95,274883,0,2006,2009,female,Northwestern University,JD,89,,DC,Environment,JD,female,274883,5,2,0
+The Climate Reality Project,Maggie L. Fox,14653192,2010,Environment,DC,667935,10097950,297,284027,0,2006,2009,female,Northwestern University,JD,89,,DC,Environment,JD,female,284027,4,1,0
+The Climate Reality Project,Maggie L. Fox,7594753,2012,Environment,DC,741960,3734921,64,271019,0,2006,2009,female,Northwestern University,JD,89,,DC,Environment,JD,female,271019,6,3,0
+The Climate Reality Project,Maggie L. Fox,6118470,2013,Environment,DC,797935,4029258,60,272664,0,2006,2009,female,Northwestern University,JD,89,,DC,Environment,JD,female,272664,7,4,0
+ASPCA,Matthew Bershadker,163600103,2014,Animals,NY,36560058,68493518,953,538057,0,1866,2013,male,Johns Hopkins University,MBA,91,,NY,Animals,MBA,male,538057,148,1,0
+Foundation For The Carolinas,Michael Marsicano,619326663,2014,Community Development,NC,929144,6694775,76,500140,106456,1958,1999,male,Duke University,Ph.D,92,,NC,Community Development,Ph.D,male,606596,56,15,0
+Foundation For The Carolinas,Michael Marsicano,274443243,2013,Community Development,NC,757711,5595309,65,412944,92936,1958,1999,male,Duke University,Ph.D,92,,NC,Community Development,Ph.D,male,505880,55,14,0
+Foundation For The Carolinas,Michael Marsicano,195181049,2012,Community Development,NC,836492,5075793,62,416109,90967,1958,1999,male,Duke University,Ph.D,92,,NC,Community Development,Ph.D,male,507076,54,13,0
+Foundation For The Carolinas,Michael Marsicano,129221531,2011,Community Development,NC,848550,4791537,51,399598,74940,1958,1999,male,Duke University,Ph.D,92,,NC,Community Development,Ph.D,male,474538,53,12,0
+Africare,Darius Mans,67627634,2011,International,DC,898830,25226865,83,209484,13296,1971,2010,male,MIT,Ph.D,94,,DC,International,Ph.D,male,222780,40,1,0
+Africare,Darius Mans,58507858,2012,International,DC,942355,24508915,71,253399,0,1971,2010,male,MIT,Ph.D,94,,DC,International,Ph.D,male,253399,41,2,0
+Africare,Darius Mans,53119293,2013,International,DC,963528,21977659,64,233765,0,1971,2010,male,MIT,Ph.D,94,,DC,International,Ph.D,male,233765,42,3,0
+Africare,Darius Mans,47879471,2014,International,DC,985414,18407609,51,233010,0,1971,2010,male,MIT,Ph.D,94,,DC,International,Ph.D,male,233010,43,4,0
+FIRST,Donald E. Bossi,45611353,2015,Education,NH,2008001,14845226,216,324158,33395,1989,2013,male,MIT,Ph.D,94,,NH,Education,Ph.D,male,357553,26,2,0
+FIRST,Donald E. Bossi,37704695,2014,Education,NH,1872900,13394017,199,352424,37016,1989,2013,male,MIT,Ph.D,94,,NH,Education,Ph.D,male,389440,25,1,0
+FIRST,Donald E. Bossi,36121542,2013,Education,NH,1635069,11862869,193,158537,19466,1989,2013,male,MIT,Ph.D,94,,NH,Education,Ph.D,male,178003,24,0,0
+Denver Museum of Nature & Science,George Sparks,40842498,2012,Arts & Culture,CO,2538290,18890698,562,302510,0,1900,2004,male,MIT,M.S.,94,,CO,Arts & Culture,M.S.,male,302510,112,8,0
+Denver Museum of Nature & Science,George Sparks,34406760,2011,Arts & Culture,CO,2739048,19184608,565,300748,0,1900,2004,male,MIT,M.S.,94,,CO,Arts & Culture,M.S.,male,300748,111,7,0
+Denver Museum of Nature & Science,George Sparks,28782006,2010,Arts & Culture,CO,2667628,17859247,554,285265,14923,1900,2004,male,MIT,M.S.,94,,CO,Arts & Culture,M.S.,male,300188,110,6,0
+Denver Museum of Nature & Science,George Sparks,27881972,2013,Arts & Culture,CO,2670477,19016722,587,339060,0,1900,2004,male,MIT,M.S.,94,,CO,Arts & Culture,M.S.,male,339060,113,9,0
+Denver Museum of Nature & Science,George Sparks,23920670,2014,Arts & Culture,CO,2963221,19877678,598,365770,0,1900,2004,male,MIT,M.S.,94,,CO,Arts & Culture,M.S.,male,365770,114,10,0
+American Museum of Natural History,Ellen V. Futter,204944084,2014,Arts & Culture,NY,6902984,104621320,1586,1472360,0,1869,1993,female,Columbia University,JD,95,,NY,Arts & Culture,JD,female,1472360,145,21,0
+American Museum of Natural History,Ellen V. Futter,142407616,2012,Arts & Culture,NY,5861935,99361971,1553,1152444,0,1869,1993,female,Columbia University,JD,95,,NY,Arts & Culture,JD,female,1152444,143,19,0
+American Museum of Natural History,Ellen V. Futter,127793960,2011,Arts & Culture,NY,5644518,99511242,1567,1070337,0,1869,1993,female,Columbia University,JD,95,,NY,Arts & Culture,JD,female,1070337,142,18,0
+American Museum of Natural History,Ellen V. Futter,122330217,2010,Arts & Culture,NY,5147490,96090760,1608,705028,293859,1869,1993,female,Columbia University,JD,95,,NY,Arts & Culture,JD,female,998887,141,17,0
+American Museum of Natural History,Ellen V. Futter,117380680,2013,Arts & Culture,NY,6302380,102813118,1531,1243984,0,1869,1993,female,Columbia University,JD,95,,NY,Arts & Culture,JD,female,1243984,144,20,0
+American Red Cross,Gail McGovern,1133413010,2012,Human Services,DC,189430809,1772593711,28973,622361,0,1900,2008,female,Columbia University,MBA,95,,DC,Human Services,MBA,female,622361,112,4,0
+American Red Cross,Gail McGovern,1013873120,2010,Human Services,DC,127019240,1694157992,34821,561210,0,1900,2008,female,Columbia University,MBA,95,,DC,Human Services,MBA,female,561210,110,2,0
+American Red Cross,Gail McGovern,788226198,2013,Human Services,DC,183222849,1577198700,26613,597961,0,1900,2008,female,Columbia University,MBA,95,,DC,Human Services,MBA,female,597961,113,5,0
+American Red Cross,Gail McGovern,741190737,2011,Human Services,DC,172405472,1723401133,31024,628508,0,1900,2008,female,Columbia University,MBA,95,,DC,Human Services,MBA,female,628508,111,3,0
+American Red Cross,Gail McGovern,660035659,2014,Human Services,DC,180933909,1524387895,23704,556772,0,1900,2008,female,Columbia University,MBA,95,,DC,Human Services,MBA,female,556772,114,6,0
+CancerCare,Helen Miller,17704553,2010,Health,NY,2656672,7774699,126,261877,13783,1944,2010,female,Columbia University,MSW,95,,NY,Health,MSW,female,275660,66,0,0
+CancerCare,Helen Miller,14553433,2011,Health,NY,2565958,7578499,154,288381,14297,1944,2010,female,Columbia University,MSW,95,,NY,Health,MSW,female,302678,67,1,0
+CancerCare,Helen Miller,14417340,2013,Health,NY,2469475,6483982,119,296333,10283,1944,2010,female,Columbia University,MSW,95,,NY,Health,MSW,female,306616,69,3,0
+CancerCare,Helen Miller,12674590,2012,Health,NY,2576109,6808658,138,290310,15280,1944,2010,female,Columbia University,MSW,95,,NY,Health,MSW,female,305590,68,2,0
+Gay Men's Health Crisis,Kelsey Louie,23745002,2014,Health,NY,2249427,11003981,210,131335,18174,1982,2013,male,Columbia University,MBA,95,,NY,Health,MBA,male,149509,32,1,0
+Gay Men's Health Crisis,Kelsey Louie,6797518,2015,Health,NY,643896,4818398,210,298244,10647,1982,2013,male,Columbia University,MBA,95,,NY,Health,MBA,male,308891,33,2,0
+Center for Reproductive Rights,Nancy Northup,27477486,2012,Human & Civil Rights,NY,2186396,8912049,108,362071,0,1992,2003,female,Columbia University,JD,95,,NY,Human & Civil Rights,JD,female,362071,20,9,0
+Center for Reproductive Rights,Nancy Northup,17212570,2013,Human & Civil Rights,NY,2553172,11202203,125,393148,0,1992,2003,female,Columbia University,JD,95,,NY,Human & Civil Rights,JD,female,393148,21,10,0
+Center for Reproductive Rights,Nancy Northup,15659112,2014,Human & Civil Rights,NY,2656062,12795226,132,425342,0,1992,2003,female,Columbia University,JD,95,,NY,Human & Civil Rights,JD,female,425342,22,11,0
+Center for Reproductive Rights,Nancy Northup,8459375,2011,Human & Civil Rights,NY,1677338,7160327,50,335984,0,1992,2003,female,Columbia University,JD,95,,NY,Human & Civil Rights,JD,female,335984,19,8,0
+ACLU Foundation,Anthony D. Romero,79581425,2014,Human & Civil Rights,NY,8096438,37912351,381,0,505381,1966,2001,male,Stanford University,JD,95,,NY,Human & Civil Rights,JD,male,505381,48,13,0
+ACLU Foundation,Anthony D. Romero,64722436,2010,Human & Civil Rights,NY,5955561,28130454,277,342858,26362,1966,2001,male,Stanford University,JD,95,,NY,Human & Civil Rights,JD,male,369220,44,9,0
+ACLU Foundation,Anthony D. Romero,58074573,2011,Human & Civil Rights,NY,7052902,31023307,269,382339,23882,1966,2001,male,Stanford University,JD,95,,NY,Human & Civil Rights,JD,male,406221,45,10,0
+ACLU Foundation,Anthony D. Romero,55110331,2013,Human & Civil Rights,NY,7873025,37504660,335,0,497376,1966,2001,male,Stanford University,JD,95,,NY,Human & Civil Rights,JD,male,497376,47,12,0
+ACLU Foundation,Anthony D. Romero,52043425,2012,Human & Civil Rights,NY,6774034,33446621,289,427523,0,1966,2001,male,Stanford University,JD,95,,NY,Human & Civil Rights,JD,male,427523,46,11,0
+Exploratorium,Dennis Bartels,51575878,2012,Arts & Culture,CA,4564152,29561500,643,316361,37725,1969,2006,male,Stanford University,Ph.D,95,,CA,Arts & Culture,Ph.D,male,354086,43,6,0
+Exploratorium,Dennis Bartels,44729382,2010,Arts & Culture,CA,3026201,23035944,552,289689,25216,1969,2006,male,Stanford University,Ph.D,95,,CA,Arts & Culture,Ph.D,male,314905,41,4,0
+Exploratorium,Dennis Bartels,35317090,2013,Arts & Culture,CA,4314403,32714516,835,309746,36132,1969,2006,male,Stanford University,Ph.D,95,,CA,Arts & Culture,Ph.D,male,345878,44,7,0
+Exploratorium,Dennis Bartels,28776622,2014,Arts & Culture,CA,4325534,32779267,886,445616,0,1969,2006,male,Stanford University,Ph.D,95,,CA,Arts & Culture,Ph.D,male,445616,45,8,0
+Exploratorium,Dennis Bartels,27171284,2011,Arts & Culture,CA,3260084,26264747,625,301434,31330,1969,2006,male,Stanford University,Ph.D,95,,CA,Arts & Culture,Ph.D,male,332764,42,5,0
+Wildlife Conservation Society,Steven E. Sanderson,159029948,2011,Animals,NY,6809949,91628076,2889,1163666,0,1895,2001,male,Stanford University,Ph.D,95,,NY,Animals,Ph.D,male,1163666,116,10,0
+Wildlife Conservation Society,Steven E. Sanderson,127644476,2010,Animals,NY,7536698,88809950,2726,870642,0,1895,2001,male,Stanford University,Ph.D,95,,NY,Animals,Ph.D,male,870642,115,9,0
+Wildlife Conservation Society,Steven E. Sanderson,124667120,2012,Animals,NY,9519936,97253287,2882,1007809,0,1895,2001,male,Stanford University,Ph.D,95,,NY,Animals,Ph.D,male,1007809,117,11,0
+National Parks Conservation Association,Thomas Kiernan,31618029,2012,Environment,DC,5698602,15043215,206,339698,42599,1919,1998,male,Stanford University,MBA,95,,DC,Environment,MBA,male,382297,93,14,0
+National Parks Conservation Association,Thomas Kiernan,23965252,2010,Environment,DC,7888804,14953239,200,343653,44142,1919,1998,male,Stanford University,MBA,95,,DC,Environment,MBA,male,387795,91,12,0
+National Parks Conservation Association,Thomas Kiernan,23639978,2011,Environment,DC,8223073,16247382,208,412022,0,1919,1998,male,Stanford University,MBA,95,,DC,Environment,MBA,male,412022,92,13,0
+FIRST,Jonathan Dudas,43285500,2012,Education,NH,1124347,9118540,135,307793,131512,1989,2010,male,University of Chicago,JD,97,,NH,Education,JD,male,439305,23,2,0
+FIRST,Jonathan Dudas,40055674,2011,Education,NH,881909,8371568,124,454071,0,1989,2010,male,University of Chicago,JD,97,,NH,Education,JD,male,454071,22,1,0
+DonorsChoose.org,Charles Best,77378201,2014,Education,NY,3407550,7128375,133,291963,43034,2000,2000,male,Yale University,B.A.,97,,NY,Education,B.A.,male,334997,14,14,1
+DonorsChoose.org,Charles Best,60854821,2013,Education,NY,2875056,6142141,104,258646,40027,2000,2000,male,Yale University,B.A.,97,,NY,Education,B.A.,male,298673,13,13,1
+DonorsChoose.org,Charles Best,52474931,2012,Education,NY,1373623,5243668,87,241303,32380,2000,2000,male,Yale University,B.A.,97,,NY,Education,B.A.,male,273683,12,12,1
+DonorsChoose.org,Charles Best,41145968,2011,Education,NY,1267724,4649014,98,233916,3020,2000,2000,male,Yale University,B.A.,97,,NY,Education,B.A.,male,236936,11,11,1
+DonorsChoose.org,Charles Best,32681400,2010,Education,NY,775847,4345232,81,189672,0,2000,2000,male,Yale University,B.A.,97,,NY,Education,B.A.,male,189672,10,10,1
+Achievement First,Dacia Toll,29253402,2012,Education,CT,1034564,14990621,227,243255,0,1999,2005,female,Yale University,JD,97,,CT,Education,JD,female,243255,13,7,0
+Achievement First,Dacia Toll,20937868,2013,Education,CT,731198,12526814,246,248964,0,1999,2005,female,Yale University,JD,97,,CT,Education,JD,female,248964,14,8,0
+Achievement First,Dacia Toll,18827529,2014,Education,CT,779838,18683383,257,262463,0,1999,2005,female,Yale University,JD,97,,CT,Education,JD,female,262463,15,9,0
+Achievement First,Dacia Toll,18165683,2011,Education,CT,1102039,12537920,222,224200,7900,1999,2005,female,Yale University,JD,97,,CT,Education,JD,female,232100,12,6,0
+Achievement First,Dacia Toll,17623163,2010,Education,CT,807317,10334816,152,219456,7712,1999,2005,female,Yale University,JD,97,,CT,Education,JD,female,227168,11,5,0
+Oceana,Andrew Sharpless,44635808,2013,Environment,DC,2257565,9925700,154,297799,0,2011,2003,male,Harvard University,JD,98,,DC,Environment,JD,male,297799,2,10,0
+Oceana,Andrew Sharpless,22331482,2010,Environment,DC,2111511,9493476,138,220417,41940,2011,2003,male,Harvard University,JD,98,,DC,Environment,JD,male,262357,0,7,0
+Oceana,Andrew Sharpless,21110289,2014,Environment,DC,2393689,12557731,131,351679,0,2011,2003,male,Harvard University,JD,98,,DC,Environment,JD,male,351679,3,11,0
+Oceana,Andrew Sharpless,19665430,2011,Environment,DC,2097525,10876311,150,288396,0,2011,2003,male,Harvard University,JD,98,,DC,Environment,JD,male,288396,0,8,0
+Oceana,Andrew Sharpless,15092380,2012,Environment,DC,2310865,9369832,139,270913,0,2011,2003,male,Harvard University,JD,98,,DC,Environment,JD,male,270913,1,9,0
+Wildlife Conservation Society,Cristian Samper,205728684,2014,Animals,NY,10039940,109195070,2708,1190755,0,1895,2012,male,Harvard University,Ph.D,98,,NY,Animals,Ph.D,male,1190755,119,2,0
+Wildlife Conservation Society,Cristian Samper,165318984,2013,Animals,NY,9577402,101357645,2856,963139,0,1895,2012,male,Harvard University,Ph.D,98,,NY,Animals,Ph.D,male,963139,118,1,0
+Center of Community Change,Deepak Bhargava,35330465,2012,Community Development,DC,1035151,8970029,119,201932,0,1968,1994,male,Harvard University,B.A.,98,,DC,Community Development,B.A.,male,201932,44,18,0
+Center of Community Change,Deepak Bhargava,16260527,2011,Community Development,DC,837466,6492587,100,193440,0,1968,1994,male,Harvard University,B.A.,98,,DC,Community Development,B.A.,male,193440,43,17,0
+Center of Community Change,Deepak Bhargava,15767733,2013,Community Development,DC,1194455,11478204,180,239473,0,1968,1994,male,Harvard University,B.A.,98,,DC,Community Development,B.A.,male,239473,45,19,0
+Center of Community Change,Deepak Bhargava,9734366,2010,Community Development,DC,917619,6943304,126,199888,0,1968,1994,male,Harvard University,B.A.,98,,DC,Community Development,B.A.,male,199888,42,16,0
+Center of Community Change,Deepak Bhargava,7935500,2014,Community Development,DC,1276607,11428449,184,257263,0,1968,1994,male,Harvard University,B.A.,98,,DC,Community Development,B.A.,male,257263,46,20,0
+The Asia Foundation,Douglas Bereuter,147240642,2010,International,CA,360838,46283733,223,355776,27037,1952,2004,male,Harvard University,MPA,98,,CA,International,MPA,male,382813,58,6,0
+National Fish and Wildlife Foundation,Jeff Trandahl,156160483,2012,Animals,DC,3597813,12996030,116,499080,32336,1984,2005,male,Harvard University,B.A.,98,,DC,Animals,B.A.,male,531416,28,7,0
+National Fish and Wildlife Foundation,Jeff Trandahl,127179571,2013,Animals,DC,4010561,15710397,142,537835,156822,1984,2005,male,Harvard University,B.A.,98,,DC,Animals,B.A.,male,694657,29,8,0
+National Fish and Wildlife Foundation,Jeff Trandahl,116332691,2014,Animals,DC,4383414,15470737,164,748933,228917,1984,2005,male,Harvard University,B.A.,98,,DC,Animals,B.A.,male,977850,30,9,0
+National Fish and Wildlife Foundation,Jeff Trandahl,105836638,2010,Animals,DC,3186651,10248508,107,382597,0,1984,2005,male,Harvard University,B.A.,98,,DC,Animals,B.A.,male,382597,26,5,0
+National Fish and Wildlife Foundation,Jeff Trandahl,95996450,2011,Animals,DC,3601808,11936473,120,452644,0,1984,2005,male,Harvard University,B.A.,98,,DC,Animals,B.A.,male,452644,27,6,0
+The Nature Conservancy,Mark Tercek,717080310,2014,Environment,VA,89529538,328647634,3824,727581,0,1951,2008,male,Harvard University,MBA,98,,VA,Environment,MBA,male,727581,63,6,0
+The Nature Conservancy,Mark Tercek,708946532,2013,Environment,VA,91748969,309858258,3786,619014,0,1951,2008,male,Harvard University,MBA,98,,VA,Environment,MBA,male,619014,62,5,0
+The Nature Conservancy,Mark Tercek,685668095,2011,Environment,VA,83348329,285256034,3725,590738,0,1951,2008,male,Harvard University,MBA,98,,VA,Environment,MBA,male,590738,60,3,0
+The Nature Conservancy,Mark Tercek,653451355,2010,Environment,VA,73533115,271377342,3598,549335,0,1951,2008,male,Harvard University,MBA,98,,VA,Environment,MBA,male,549335,59,2,0
+The Nature Conservancy,Mark Tercek,610766647,2012,Environment,VA,87884038,298380218,3712,646821,0,1951,2008,male,Harvard University,MBA,98,,VA,Environment,MBA,male,646821,61,4,0
+CancerCare,Patricia Goldsmith,15293597,2014,Health,NY,2301722,6861046,114,220145,0,1944,2014,female,Harvard University,MHCM,98,,NY,Health,MHCM,female,220145,70,0,0
+The Boston Foundation,Paul Grogan,126797786,2012,Community Development,MA,1885071,10151443,125,571435,60438,1915,1998,male,Harvard University,M.A.,98,,MA,Community Development,M.A.,male,631873,97,14,0
+The Boston Foundation,Paul Grogan,120675901,2014,Community Development,MA,1998360,10783896,133,540758,64369,1915,1998,male,Harvard University,M.A.,98,,MA,Community Development,M.A.,male,605127,99,16,0
+The Boston Foundation,Paul Grogan,110073779,2013,Community Development,MA,1941905,10367581,124,525187,61781,1915,1998,male,Harvard University,M.A.,98,,MA,Community Development,M.A.,male,586968,98,15,0
+The Boston Foundation,Paul Grogan,77304308,2010,Community Development,MA,1712375,7696560,73,540877,39010,1915,1998,male,Harvard University,M.A.,98,,MA,Community Development,M.A.,male,579887,95,12,0
+The Boston Foundation,Paul Grogan,57474290,2011,Community Development,MA,3055127,9380898,95,603157,0,1915,1998,male,Harvard University,M.A.,98,,MA,Community Development,M.A.,male,603157,96,13,0
+Amnesty International USA,Suzanne Nossel,35401908,2012,International,NY,6124016,11541928,184,249189,224424,1966,2012,female,Harvard University,JD,98,,NY,International,JD,female,473613,46,0,0
+ASPCA,Edwin Sayres,145059094,2013,Animals,NY,33548937,66957781,853,713166,0,1866,2003,male,Sonoma State University,M.A.,,,NY,Animals,M.A.,male,713166,147,10,0
+ASPCA,Edwin Sayres,144738187,2011,Animals,NY,30624168,51231219,753,614585,0,1866,2003,male,Sonoma State University,M.A.,,,NY,Animals,M.A.,male,614585,145,8,0
+ASPCA,Edwin Sayres,137616740,2012,Animals,NY,31287839,60424407,811,641521,0,1866,2003,male,Sonoma State University,M.A.,,,NY,Animals,M.A.,male,641521,146,9,0
+ASPCA,Edwin Sayres,111344562,2010,Animals,NY,25768307,45500775,676,555824,0,1866,2003,male,Sonoma State University,M.A.,,,NY,Animals,M.A.,male,555824,144,7,0
+Canine Companions for Independence,John Corey Hudson,22585335,2014,Animals,CA,4684071,11769032,226,214849,22665,1975,1990,male,Sonoma State University,M.Ed.,,,CA,Animals,M.Ed.,male,237514,39,24,0
+Canine Companions for Independence,John Corey Hudson,21704066,2015,Animals,CA,5084097,12245337,255,126064,11249,1975,1990,male,Sonoma State University,M.Ed.,,,CA,Animals,M.Ed.,male,137313,40,25,0
+Canine Companions for Independence,John Corey Hudson,18410352,2013,Animals,CA,2809776,10334767,225,232810,0,1975,1990,male,Sonoma State University,M.Ed.,,,CA,Animals,M.Ed.,male,232810,38,23,0
+Canine Companions for Independence,John Corey Hudson,14452207,2012,Animals,CA,2536716,9628144,222,215060,21859,1975,1990,male,Sonoma State University,M.Ed.,,,CA,Animals,M.Ed.,male,236919,37,22,0
+Canine Companions for Independence,John Corey Hudson,14194389,2011,Animals,CA,2242790,9348781,209,224204,20680,1975,1990,male,Sonoma State University,M.Ed.,,,CA,Animals,M.Ed.,male,244884,36,21,0
+The ALS Association,Barbara J. Newhouse,23487328,2016,Health,DC,4611138,7018063,79,322705,0,1985,2014,female,Briar Cliff University,MHA,,,DC,Health,MHA,female,322705,31,2,0
+National Wild Turkey Federation,George C. Thornton,39297534,2014,Animals,SC,842954,12917883,317,376851,47389,1973,2008,male,Fairleigh Dickinson University,MBA,,,SC,Animals,MBA,male,424240,41,6,0
+National Wild Turkey Federation,George C. Thornton,35099037,2012,Animals,SC,752764,9885598,313,288364,14657,1973,2008,male,Fairleigh Dickinson University,MBA,,,SC,Animals,MBA,male,303021,39,4,0
+National Wild Turkey Federation,George C. Thornton,34077445,2013,Animals,SC,699791,10898516,313,318317,42800,1973,2008,male,Fairleigh Dickinson University,MBA,,,SC,Animals,MBA,male,361117,40,5,0
+National Wild Turkey Federation,George C. Thornton,33680879,2011,Animals,SC,735728,10556145,313,302681,30191,1973,2008,male,Fairleigh Dickinson University,MBA,,,SC,Animals,MBA,male,332872,38,3,0
+National Wild Turkey Federation,George C. Thornton,33209785,2010,Animals,SC,735408,9731324,326,288694,14436,1973,2008,male,Fairleigh Dickinson University,MBA,,,SC,Animals,MBA,male,303130,37,2,0
+The Arbor Day Foundation,Matt Harris,29705785,2014,Environment,NE,3427673,12148323,551,290401,0,1972,2014,male,Nebraska Wesleyan University,B.S.,,,NE,Environment,B.S.,male,290401,42,0,0
+Arts and Science Council,Robert E. Bush Jr.,13258068,2013,Arts & Culture,NC,1292948,2298510,55,149211,14638,1958,2013,male,Appalachian State University,M.A.,,,NC,Arts & Culture,M.A.,male,163849,55,0,0
+Arts and Science Council,Robert E. Bush Jr.,10937706,2014,Arts & Culture,NC,1326486,2660113,48,206995,17798,1958,2013,male,Appalachian State University,M.A.,,,NC,Arts & Culture,M.A.,male,224793,56,1,0
+Atlanta Habitat for Humanity,Larrie Del Martin,11673186,2012,Community Development,GA,901693,1697776,49,171336,11764,1983,1998,female,Georgia State University,M.A.,,,GA,Community Development,M.A.,female,183100,29,14,0
+Atlanta Habitat for Humanity,Larrie Del Martin,9024395,2013,Community Development,GA,846626,2116005,57,193015,10229,1983,1998,female,Georgia State University,M.A.,,,GA,Community Development,M.A.,female,203244,30,15,0
+Atlanta Habitat for Humanity,Larrie Del Martin,8627861,2014,Community Development,GA,810175,2352252,63,205617,11137,1983,1998,female,Georgia State University,M.A.,,,GA,Community Development,M.A.,female,216754,31,16,0
+Atlanta Habitat for Humanity,Larrie Del Martin,6518937,2011,Community Development,GA,692741,1649394,52,175925,11206,1983,1998,female,Georgia State University,M.A.,,,GA,Community Development,M.A.,female,187131,28,13,0
+Atlanta Habitat for Humanity,Larrie Del Martin,5775946,2010,Community Development,GA,494771,1521657,49,158082,10685,1983,1998,female,Georgia State University,M.A.,,,GA,Community Development,M.A.,female,168767,27,12,0
+Armed Services YMCA,Mike Landers,9330079,2014,Human Services,IL,145018,1302323,14,261913,0,1983,1999,male,Industrial College of the Armed Forces,M.S.,,,IL,Human Services,M.S.,male,261913,31,15,0
+Armed Services YMCA,Mike Landers,4406940,2011,Human Services,IL,89059,1109788,19,251729,0,1983,1999,male,Industrial College of the Armed Forces,M.S.,,,IL,Human Services,M.S.,male,251729,28,12,0
+Armed Services YMCA,Mike Landers,4387892,2013,Human Services,IL,115361,1314361,16,299117,0,1983,1999,male,Industrial College of the Armed Forces,M.S.,,,IL,Human Services,M.S.,male,299117,30,14,0
+Armed Services YMCA,Mike Landers,4309248,2012,Human Services,IL,83856,1205081,18,276555,0,1983,1999,male,Industrial College of the Armed Forces,M.S.,,,IL,Human Services,M.S.,male,276555,29,13,0
+CDC Foundation,Charles Stokes,144054084,2014,Health,GA,2243263,10188818,140,490780,0,1995,1995,male,Lincoln University,M.Ed.,,,GA,Health,M.Ed.,male,490780,19,19,1
+CDC Foundation,Charles Stokes,42595150,2013,Health,GA,1616580,5032823,50,445522,0,1995,1995,male,Lincoln University,M.Ed.,,,GA,Health,M.Ed.,male,445522,18,18,1
+CDC Foundation,Charles Stokes,38886466,2010,Health,GA,1400438,3531203,43,362258,0,1995,1995,male,Lincoln University,M.Ed.,,,GA,Health,M.Ed.,male,362258,15,15,1
+CDC Foundation,Charles Stokes,25659088,2012,Health,GA,1732296,4487628,49,408970,0,1995,1995,male,Lincoln University,M.Ed.,,,GA,Health,M.Ed.,male,408970,17,17,1
+CDC Foundation,Charles Stokes,17646412,2011,Health,GA,1725695,3721867,46,425872,0,1995,1995,male,Lincoln University,M.Ed.,,,GA,Health,M.Ed.,male,425872,16,16,1
+Armed Services YMCA,William D. French,5522254,2015,Human Services,IL,221768,1366250,13,198758,0,1983,2015,male,Naval War College,M.A.,,,IL,Human Services,M.A.,male,198758,32,0,0
+Cancer Research Institute,Jill O'Donnell-Tormey,39640080,2013,Health,NY,1972540,2489544,26,409948,0,1953,1993,female,SUNY Downstate Medical Center,Ph.D,,,NY,Health,Ph.D,female,409948,60,20,0
+Cancer Research Institute,Jill O'Donnell-Tormey,27002808,2014,Health,NY,3843334,2831435,23,431238,0,1953,1993,female,SUNY Downstate Medical Center,Ph.D,,,NY,Health,Ph.D,female,431238,61,21,0
+Cancer Research Institute,Jill O'Donnell-Tormey,16472823,2012,Health,NY,1575556,2480379,22,420174,0,1953,1993,female,SUNY Downstate Medical Center,Ph.D,,,NY,Health,Ph.D,female,420174,59,19,0
+Cancer Research Institute,Jill O'Donnell-Tormey,14808431,2010,Health,NY,1370868,2321319,20,408863,0,1953,1993,female,SUNY Downstate Medical Center,Ph.D,,,NY,Health,Ph.D,female,408863,57,17,0
+Cancer Research Institute,Jill O'Donnell-Tormey,14138170,2011,Health,NY,1456585,2225398,21,412959,0,1953,1993,female,SUNY Downstate Medical Center,Ph.D,,,NY,Health,Ph.D,female,412959,58,18,0
+National Parks Conservation Association,Theresa Pierno,26023847,2013,Environment,DC,4379259,14727349,198,255889,32077,1919,2013,female,University of Baltimore,B.S.,,,DC,Environment,B.S.,female,287966,94,0,0
+African Wildlife Foundation,Patrick Bergin,31585502,2014,Animals,DC,2454154,9628992,44,312416,0,1961,2002,male,University of East Anglia,Ph.D,,,DC,Animals,Ph.D,male,312416,53,12,0
+African Wildlife Foundation,Patrick Bergin,26722612,2013,Animals,DC,2184178,9292323,48,310985,0,1961,2002,male,University of East Anglia,Ph.D,,,DC,Animals,Ph.D,male,310985,52,11,0
+African Wildlife Foundation,Patrick Bergin,24614325,2010,Animals,DC,1977666,7518680,40,281628,0,1961,2002,male,University of East Anglia,Ph.D,,,DC,Animals,Ph.D,male,281628,49,8,0
+African Wildlife Foundation,Patrick Bergin,21999183,2012,Animals,DC,1808485,8180459,50,286880,0,1961,2002,male,University of East Anglia,Ph.D,,,DC,Animals,Ph.D,male,286880,51,10,0
+African Wildlife Foundation,Patrick Bergin,19132189,2011,Animals,DC,1804934,7330014,40,341947,0,1961,2002,male,University of East Anglia,Ph.D,,,DC,Animals,Ph.D,male,341947,50,9,0
+Pheasants Forever,Howard K. Vincent,52294539,2013,Animals,MN,6109010,12890638,345,277288,0,1982,1990,male,University of Minnesota Duluth,B.S.,,,MN,Animals,B.S.,male,277288,31,23,0
+Pheasants Forever,Howard K. Vincent,37975475,2014,Animals,MN,6673514,13920367,340,305008,0,1982,1991,male,University of Minnesota Duluth,B.S.,,,MN,Animals,B.S.,male,305008,32,23,0
+Pheasants Forever,Howard K. Vincent,37476901,2012,Animals,MN,4033412,11566830,295,247347,0,1982,1989,male,University of Minnesota Duluth,B.S.,,,MN,Animals,B.S.,male,247347,30,23,0
+Pheasants Forever,Howard K. Vincent,30759845,2011,Animals,MN,3813162,10033657,265,238527,0,1982,1988,male,University of Minnesota Duluth,B.S.,,,MN,Animals,B.S.,male,238527,29,23,0
+Pheasants Forever,Howard K. Vincent,30273213,2010,Animals,MN,3398374,8494308,232,200958,27876,1982,1987,male,University of Minnesota Duluth,B.S.,,,MN,Animals,B.S.,male,228834,28,23,0
+The ALS Association,Jane H. Gilbert,137917563,2015,Health,DC,6023408,6041807,69,219228,0,1985,2009,female,University of Nebraska at Omaha,MBA,,,DC,Health,MBA,female,219228,30,6,0
+The ALS Association,Jane H. Gilbert,23517487,2014,Health,DC,3600970,5843475,73,339475,22983,1985,2009,female,University of Nebraska at Omaha,MBA,,,DC,Health,MBA,female,362458,29,5,0
+The ALS Association,Jane H. Gilbert,19357009,2013,Health,DC,3030168,5138716,71,297288,22667,1985,2009,female,University of Nebraska at Omaha,MBA,,,DC,Health,MBA,female,319955,28,4,0
+The ALS Association,Jane H. Gilbert,19126742,2012,Health,DC,3307795,4865099,63,281250,0,1985,2009,female,University of Nebraska at Omaha,MBA,,,DC,Health,MBA,female,281250,27,3,0
+The Arbor Day Foundation,John Rosenow,26861907,2013,Environment,NE,2989436,12010839,552,408377,0,1972,1972,male,University of Santa Monica,M.A.,,,NE,Environment,M.A.,male,408377,41,41,1
+The Arbor Day Foundation,John Rosenow,25693581,2010,Environment,NE,3796348,11831775,539,380164,9265,1972,1972,male,University of Santa Monica,M.A.,,,NE,Environment,M.A.,male,389429,38,38,1
+The Arbor Day Foundation,John Rosenow,25164299,2012,Environment,NE,3158269,11636873,552,398271,0,1972,1972,male,University of Santa Monica,M.A.,,,NE,Environment,M.A.,male,398271,40,40,1
+The Arbor Day Foundation,John Rosenow,24738989,2011,Environment,NE,3135741,11478794,574,386441,0,1972,1972,male,University of Santa Monica,M.A.,,,NE,Environment,M.A.,male,386441,39,39,1
+Atlanta Community Food Bank,Bill Bolling,117789293,2014,Human Services,GA,1468407,8941165,165,269056,0,1979,1979,male,University of West Georgia,M.A.,,,GA,Human Services,M.A.,male,269056,35,35,1
+Atlanta Community Food Bank,Bill Bolling,97589682,2013,Human Services,GA,1444775,7946899,150,225451,0,1979,1979,male,University of West Georgia,M.A.,,,GA,Human Services,M.A.,male,225451,34,34,1
+Atlanta Community Food Bank,Bill Bolling,90757491,2012,Human Services,GA,1486048,7017942,134,212767,0,1979,1979,male,University of West Georgia,M.A.,,,GA,Human Services,M.A.,male,212767,33,33,1
+Atlanta Community Food Bank,Bill Bolling,74811614,2011,Human Services,GA,1219883,6174735,114,177137,0,1979,1979,male,University of West Georgia,M.A.,,,GA,Human Services,M.A.,male,177137,32,32,1
+Atlanta Community Food Bank,Bill Bolling,72015410,2010,Human Services,GA,1021916,5079791,104,162317,15070,1979,1979,male,University of West Georgia,M.A.,,,GA,Human Services,M.A.,male,177387,31,31,1
+Hampton Roads Community Foundation,Angelica Light,10841985,2010,Community Development,VA,490923,1108746,13,201147,0,1950,1999,female,Washington and Lee University,JD,,,VA,Community Development,JD,female,201147,60,11,0
+Hampton Roads Community Foundation,Angelica Light,9328389,2011,Community Development,VA,473609,1120558,15,175385,23807,1950,1999,female,Washington and Lee University,JD,,,VA,Community Development,JD,female,199192,61,12,0
