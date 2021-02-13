@@ -266,10 +266,6 @@ ceo_salary   |
    9.sector1 |  5.667e+08   5.221e+09   2.706e+09   5.149e+09   3.757e+09  -5.214e+09   6.842e+09             
        _cons |  3.688e+09  -2.196e+10  -4.465e+09  -2.052e+10  -1.462e+10   3.964e+10  -7.515e+09   5.589e+10 
 
-. estat summarizw
-invalid subcommand summarizw
-r(321);
-
 . estat summarize
 
   Estimation sample reg3                 Number of obs =    290
@@ -337,30 +333,6 @@ r(321);
          male  |    .7137931     .4527686          0          1
   -------------------------------------------------------------
 
-. hausman
-You used the old syntax of hausman. Click here to learn about the new syntax.
-
-no estimation results were previously stored by hausman
-r(198);
-
-. help estat
-
-. estat hettest
-invalid subcommand hettest
-r(321);
-
-. estat imtest
-invalid subcommand imtest
-r(321);
-
-. estat bgodfrey
-invalid subcommand bgodfrey
-r(321);
-
-. help lmhreg3
-
-. help lmhreg3
-
 . lmhreg3
 
 =================================================
@@ -386,8 +358,6 @@ r(321);
 - Likelihood Ratio LR Test      = 351.2987       P-Value > Chi2(1)   0.0000
 - Wald Test                     = 290.0000       P-Value > Chi2(1)   0.0000
 ------------------------------------------------------------------------------
-factor variables not allowed
-r(101);
 
 . reg ceo_salary contributions founder ceo_duration i.degree1 i.gender1 i.state1 i.sector1
 note: 21.state1 omitted because of collinearity
@@ -469,24 +439,6 @@ Breusch-Pagan / Cook-Weisberg test for heteroskedasticity
 
          chi2(1)      =   495.57
          Prob > chi2  =   0.0000
-
-. reg3 (contributions ceo_salary) (ceo_salary contributions)
-Equation is not identified -- does not meet order conditions
-    Equation contributions:  contributions  ceo_salary 
-    Exogenous variables:   
-r(481);
-
-. reg3 (contributions ceo_salary) (ceo_salary contributions charity_age)
-Equation is not identified -- does not meet order conditions
-    Equation ceo_salary:  ceo_salary  contributions charity_age 
-    Exogenous variables:   charity_age 
-r(481);
-
-. reg3 (contributions ceo_salary charity_age) (ceo_salary contributions charity_age)
-Equation is not identified -- does not meet order conditions
-    Equation contributions:  contributions  ceo_salary charity_age 
-    Exogenous variables:   charity_age 
-r(481);
 
 . reg3 (contributions ceo_salary ceo_duration) (ceo_salary contributions charity_age)
 
@@ -886,37 +838,6 @@ Exogenous variables:   charity_age 2.state1 3.state1 4.state1 5.state1
      2.gender1 
 ------------------------------------------------------------------------------
 
-. help cmp
-
-. help cmp
-
-. estat hettest
-invalid subcommand hettest
-r(321);
-
-. help estat
-
-. help reg3
-
-. bootstrap reg3 (contributions ceo_salary charity_age i.state1 i.sector1) (ceo_salary contributions founder ceo_duration i.degree
-> 1 i.gender1 i.state1 i.sector1)
-last estimates not found
-
-command -> reg3
-an error occurred when command was executed on original dataset
-please rerun bootstrap and specify the trace option to see a trace of the commands bootstrap executed
-r(301);
-
-. reg3 (contributions ceo_salary charity_age i.state1 i.sector1) (ceo_salary contributions founder ceo_duration i.degree1 i.gender
-> 1 i.state1 i.sector1), robust
-option robust not allowed
-r(198);
-
-. reg3 (contributions ceo_salary charity_age i.state1 i.sector1) (ceo_salary contributions founder ceo_duration i.degree1 i.gender
-> 1 i.state1 i.sector1), bootstrap
-option bootstrap not allowed
-r(198);
-
 . bootstrap reg3 (contributions ceo_salary charity_age i.state1 i.sector1) (ceo_salary contributions founder ceo_duration i.degree
 > 1 i.gender1 i.state1 i.sector1), trace
 
@@ -958,60 +879,6 @@ last estimates not found
           ----------------------------------------------------------------------------------------------------------- end reg3 ---
         - `traceoff'
         = set trace off
-
-command -> reg3
-an error occurred when command was executed on original dataset
-please rerun bootstrap and specify the trace option to see a trace of the commands bootstrap executed
-r(301);
-
-. reg3 (contributions ceo_salary charity_age i.state1 i.sector1) (ceo_salary contributions founder ceo_duration i.degree1 i.gender
-> 1 i.state1 i.sector1), vce(robust)
-option vce() not allowed
-r(198);
-
-. help vce
-
-. bootstrap reg ceo_salary contributions
-last estimates not found
-
-command -> reg
-an error occurred when command was executed on original dataset
-please rerun bootstrap and specify the trace option to see a trace of the commands bootstrap executed
-r(301);
-
-. bootstrap test1, reps(100): reg3 (contributions ceo_salary charity_age i.state1 i.sector1) (ceo_salary contributions founder ceo
-> _duration i.degree1 i.gender1 i.state1 i.sector1)
-(running reg3 on estimation sample)
-test1 not found
-error in expression: test1
-r(111);
-
-. help cmp
-
-. cmp\ (contributions ceo_salary charity_age i.state1 i.sector1) (ceo_salary contributions founder ceo_duration i.degree1 i.gender
-> 1 i.state1 i.sector1)
-Error: cmp works with ghk2() version 1.5.0 or later.
-To install or update it, type or click on ssc install ghk2, replace. Then restart Stata.
-file not found
-r(601);
-
-. cmp (contributions ceo_salary charity_age i.state1 i.sector1) (ceo_salary contributions founder ceo_duration i.degree1 i.gender1
->  i.state1 i.sector1)
-Error: cmp works with ghk2() version 1.5.0 or later.
-To install or update it, type or click on ssc install ghk2, replace. Then restart Stata.
-file not found
-r(601);
-
-. ssc install ghk2, replace
-checking ghk2 consistency and verifying not already installed...
-installing into c:\ado\plus\...
-installation complete.
-
-. cmp (contributions ceo_salary charity_age i.state1 i.sector1) (ceo_salary contributions founder ceo_duration i.degree1 i.gender1
->  i.state1 i.sector1)
-option indicators() required
-invalid syntax
-r(198);
 
 . scatter contributions ceo_salary
 
@@ -1188,13 +1055,6 @@ Community Development  |   2.60e+07   2.76e+07     0.94   0.347    -2.83e+07    
                        |
                  _cons |  -1.20e+08   6.12e+07    -1.97   0.050    -2.41e+08    99865.37
 ----------------------------------------------------------------------------------------
-
-. help ivreg
-
-. ivregress 2sls contributions charity_age i.state1 i.sector1 (ceo_salary = contributions i.degree1 i.state1 i.gender1 i.sector1 c
-> eo_duration founder)
-contributions specified as both regressand and excluded exogenous variable
-r(498);
 
 . ivregress 2sls contributions charity_age i.state1 i.sector1 (ceo_salary = i.degree1 i.state1 i.gender1 i.sector1 ceo_duration fo
 > under)
@@ -1479,15 +1339,3 @@ Instruments:   charity_age 2.state1 3.state1 4.state1 5.state1 6.state1 7.state1
                8.sector1 9.sector1 2.degree1 4.degree1 5.degree1 6.degree1 7.degree1
                8.degree1 9.degree1 10.degree1 11.degree1 12.degree1 13.degree1
                14.degree1 15.degree1 2.gender1 ceo_duration founder
-
-. estat hettest
-invalid subcommand hettest
-r(321);
-
-. predict res_ddd, residuals
-
-. scatter res_ddd contributions
-
-. help ivregress
-
-. 
